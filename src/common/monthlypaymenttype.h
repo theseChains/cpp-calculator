@@ -1,0 +1,8 @@
+#ifndef CPP3_SMARTCALC_V2_0_1_COMMON_MONTHLYPAYMENTTYPE_H_
+#define CPP3_SMARTCALC_V2_0_1_COMMON_MONTHLYPAYMENTTYPE_H_
+
+namespace s21 {
+enum class MonthlyPaymentType { kAnnuity, kDifferentiated };
+}
+
+#endif  // CPP3_SMARTCALC_V2_0_1_COMMON_MONTHLYPAYMENTTYPE_H_
